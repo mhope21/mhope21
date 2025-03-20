@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcia</h1>
-<h3 align="center">An aspiring full-stack developer from the United States</h3>
+<h3 align="center">A Software Developer Apprentice with Code the Dream</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhope21&label=Profile%20views&color=0e75b6&style=flat" alt="mhope21" /> </p>
 
