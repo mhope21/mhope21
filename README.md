@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcia</h1>
-<h3 align="center">A Software Developer Apprentice with Code the Dream</h3>
+<h3 align="center">An Associate Developer in a structured apprenticeship program with Code the Dream Labs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhope21&label=Profile%20views&color=0e75b6&style=flat" alt="mhope21" /> </p>
 
-- 🔭 I’m currently working on [a full-stack project called Project Aware.](Code-the-Dream-School/herring-team-3)
+- 🔭 In my free time I’m currently working on [a full-stack project called Project Aware.](Code-the-Dream-School/herring-team-3)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently volunteering as a mentor for students at **Code the Dream**
 
 - 📫 How to reach me **juddhope@gmail.com**
 
