@@ -6,8 +6,10 @@
 - 🔭 In my free time I’m currently working on [a full-stack project called Project Aware.](Code-the-Dream-School/herring-team-3)
 
 - 🌱 I’m currently volunteering as a mentor for students at **Code the Dream**
+  
+- 💻 Code, learn, repeat  | Currently diving into C# and the .NET framework 📚
 
-- 📫 How to reach me **juddhope@gmail.com**
+- 📫 How to reach me **marciahope3@gmail.com**
 
 - ⚡ Fun fact **I love to play board games and go camping.**
 
