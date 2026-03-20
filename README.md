@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcia</h1>
+<h1 align="center">Hi 👋🏽, I'm Marcia</h1>
 <h3 align="center">An Associate Developer in a structured apprenticeship program with Code the Dream Labs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhope21&label=Profile%20views&color=0e75b6&style=flat" alt="mhope21" /> </p>
